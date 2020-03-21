@@ -56,17 +56,8 @@ git stash list
 git stash pop
 ```
 容易起冲突,我们需要手动解决,然后提交
-```
-Generating public/private rsa key pair.
-Enter file in which to save the key (/c/Users/mylapyop/.ssh/id_rsa):
-Created directory '/c/Users/mylapyop/.ssh'.
-Enter passphrase (empty for no passphrase):
-Enter same passphrase again:
-Your identification has been saved in /c/Users/mylapyop/.ssh/id_rsa.
-Your public key has been saved in /c/Users/mylapyop/.ssh/id_rsa.pub.
-The key fingerprint is:
-SHA256:GSlzP6j1i33Jkip4AzmPHBGc465+M3XTrlpFdyohb54 2285839445@qq.com
-```
+
+
 ## github 的使用
 ```
 <!-- 创建ssh密钥 -->
