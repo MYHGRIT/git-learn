@@ -3,8 +3,12 @@ pprint("Hello world")
 number1 = 10
 number2 = 20
 number3 = 30
+<<<<<<< HEAD
 number4 = 402
 
+=======
+number4 = 401
+>>>>>>> ed7c6eb11046c5ffda47b7bf6eca8553a5e9d5f1
 
 Enumerating objects: 4, done.
 Enumerating objects: 4, done.
