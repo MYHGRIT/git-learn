@@ -3,7 +3,7 @@ pprint("Hello world")
 number1 = 10
 number2 = 20
 number3 = 30
-
+number4 = 401
 
 Enumerating objects: 4, done.
 Enumerating objects: 4, done.
