@@ -1,5 +1,9 @@
 import pprint
 pprint("Hello world")
+number1 = 10
+
+
+
 
 Enumerating objects: 4, done.
 Enumerating objects: 4, done.
